@@ -1,0 +1,82 @@
+[
+  {
+    "almanca_kelime": "Apfel",
+    "artikel": "der",
+    "turkce_kelime": "elma",
+    "kelime_turu": "isim",
+    "ornek_cumle": "Der Apfel ist rot und süß.",
+    "kategori": "Yiyecek"
+  },
+  {
+    "almanca_kelime": "Buch",
+    "artikel": "das",
+    "turkce_kelime": "kitap",
+    "kelime_turu": "isim",
+    "ornek_cumle": "Das Buch liegt auf dem Tisch.",
+    "kategori": "Eğitim"
+  },
+  {
+    "almanca_kelime": "lesen",
+    "artikel": "",
+    "turkce_kelime": "okumak",
+    "kelime_turu": "fiil",
+    "ornek_cumle": "Ich lese jeden Tag ein Buch.",
+    "kategori": "Aktivite"
+  },
+  {
+    "almanca_kelime": "schön",
+    "artikel": "",
+    "turkce_kelime": "güzel",
+    "kelime_turu": "sıfat",
+    "ornek_cumle": "Das Wetter ist heute sehr schön.",
+    "kategori": "Sıfat"
+  },
+  {
+    "almanca_kelime": "Wasser",
+    "artikel": "das",
+    "turkce_kelime": "su",
+    "kelime_turu": "isim",
+    "ornek_cumle": "Ich trinke viel Wasser.",
+    "kategori": "İçecek"
+  },
+  {
+    "almanca_kelime": "sprechen",
+    "artikel": "",
+    "turkce_kelime": "konuşmak",
+    "kelime_turu": "fiil",
+    "ornek_cumle": "Wir sprechen Deutsch in der Schule.",
+    "kategori": "İletişim"
+  },
+  {
+    "almanca_kelime": "Haus",
+    "artikel": "das",
+    "turkce_kelime": "ev",
+    "kelime_turu": "isim",
+    "ornek_cumle": "Unser Haus ist sehr groß.",
+    "kategori": "Konut"
+  },
+  {
+    "almanca_kelime": "Auto",
+    "artikel": "das",
+    "turkce_kelime": "araba",
+    "kelime_turu": "isim",
+    "ornek_cumle": "Das Auto ist blau und schnell.",
+    "kategori": "Ulaşım"
+  },
+  {
+    "almanca_kelime": "lernen",
+    "artikel": "",
+    "turkce_kelime": "öğrenmek",
+    "kelime_turu": "fiil",
+    "ornek_cumle": "Die Kinder lernen Deutsch.",
+    "kategori": "Eğitim"
+  },
+  {
+    "almanca_kelime": "Freund",
+    "artikel": "der",
+    "turkce_kelime": "arkadaş",
+    "kelime_turu": "isim",
+    "ornek_cumle": "Mein Freund kommt heute zu Besuch.",
+    "kategori": "İlişkiler"
+  }
+]
